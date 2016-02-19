@@ -1,0 +1,28 @@
+{
+  "name": "mj-bbutton",
+  "version": "0.0.0",
+  "description": "",
+  "main": "bbutton.js",
+  "dependencies": {
+    "babel-cli": "^6.4.3",
+    "babel-eslint": "4.1.8",
+    "babel-plugin-transform-decorators-legacy": "1.3.4",
+    "babel-preset-es2015": "6.3.13",
+    "babel-preset-react": "6.3.13",
+    "babel-preset-stage-0": "6.3.13",
+    "babel-register": "6.4.3",
+    "eslint": "1.10.3",
+    "eslint-plugin-react": "3.15.0",
+    "lodash": "4.0.1",
+    "mjml": "1.1.0",
+    "react": "0.14.3",
+    "react-addons-perf": "0.14.3",
+    "react-dom": "0.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faleij",
+  "license": "MIT"
+}
